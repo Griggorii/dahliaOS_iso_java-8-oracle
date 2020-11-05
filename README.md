@@ -1,5 +1,5 @@
 # dahliaOS_iso_java-8-oracle
-linux , java , iso , RELEASE
+linux , java , iso , RELEASE , license mit (java-8) <-switch compilator
 
 Disk.iso roofs download test my build https://github.com/Griggorii/dahliaOS_iso_java-8-oracle/releases/tag/dahliaOS mount in linux rootfs
 
